@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e6e6e6;
+}
+
+.card {
+  height: 500px;
+}
+
+#About {
+  color: #e6e6e6;
+  background-color: #6c757d;
+}
+#Projects {
+  background-color: #e6e6e6;
+}
+
+#Contact {
+  color: #e6e6e6;
+  background-color: #6c757d;
+}
+
+section {
+  padding-top: 5rem;
+}
